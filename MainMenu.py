@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 #Copyright 2021 AllHackingTools
-#Written by : Misha Korzhik
-#Github     : http://github.com/mishakorzik                                                                           
+#Written by : SHATIAR SAKIB
+#Github     : http://github.com/Chooperkutt9                                                                           
 import os
 import time
 import sys
