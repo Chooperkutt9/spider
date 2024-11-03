@@ -1,6 +1,6 @@
 cd
 cd
-cd AllHackingTools
+cd spider
 python3 src/CheckVersion.py
 python3 .check/CheckServerYesAndNo.py
 sleep 3
